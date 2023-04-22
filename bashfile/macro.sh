@@ -1,5 +1,5 @@
 #!/bin/bash
-cpath="/"
+cpath="/usr/"
 macro () {
   cpath=$(pwd)
 }
